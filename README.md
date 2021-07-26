@@ -1,4 +1,4 @@
-**A TIC TAC TOE GAME using RactJS functional components **
+***A TIC TAC TOE GAME using ReactJS functional components***
 
 <img src="Screenshots/fresh.jpeg" width=300/><img src="Screenshots/0 win.jpeg" width=300/>
 <img src="Screenshots/draw.jpeg" width=300/>
